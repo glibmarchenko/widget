@@ -1,0 +1,27 @@
+{
+	"type": "popup-bullet",
+	"style": {
+		"modal": "square",
+		"font": "https:\/\/fonts.googleapis.com\/css?family=Open+Sans",
+		"font_name": "'Open Sans', sans-serif",
+		"text_color": "#000",
+		"modal_bg": "http:\/\/pagebuilder.micromir.com.ua\/cross-test-alt\/assets\/images\/bg-scene-3.jpg"
+	},
+	"fields": [
+		{
+			"name": "title",
+			"content": "Modal body text goes here."
+		},
+		{
+			"name": "description",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+		},
+		{
+			"name": "bullets",
+			"content": ["type1","type2"]
+		},
+		{
+			"name": "button"
+		}
+	]
+}
